@@ -1,0 +1,2 @@
+{"source":"host1","receiver":"srv","message":"hello from host1","injected_tag":"hosts.test31","injected_time":"2023-11-01T22:35:13+0600"}
+{"source":"host2","receiver":"srv","message":"hello from host2","injected_tag":"hosts.test31","injected_time":"2023-11-01T22:35:16+0600"}

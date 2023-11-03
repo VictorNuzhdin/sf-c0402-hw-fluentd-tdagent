@@ -1,0 +1,2 @@
+{"source":"host1","message":"hello1 from host1","receiver":"srv","dt":"2023-11-02T23:18:07+0600"}
+{"source":"host1","message":"hello2 from host1","receiver":"srv","dt":"2023-11-02T23:18:12+0600"}
